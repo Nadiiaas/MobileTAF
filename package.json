@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "appium": "^2.4.1"
+  },
+  "name": "framework",
+  "version": "1.0.0",
+  "main": "godzila.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "appium-uiautomator2-driver": "^2.42.1",
+    "webdriverio": "^8.28.6"
+  },
+  "description": ""
+}
